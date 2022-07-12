@@ -1,0 +1,301 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Roberto",
+      "surnames": "de la Casa",
+      "description": "Soy un desarrollador web, con bastantes años de experiencia. He trabajado en consultoras y en empresas con producto propio. He estado en grandes empresas y en Startups. Mi fuerte es la maquetación, aunque también controlo bastante de la parte Front (JS, Frameworks js, etc)\nActualmente trabajo como desarrollador Frontend en un lugar en que estoy a gusto, pero creo que podría crecer algo mas quizá cambiando de sitio, aunque no es nada urgente.\nMe gustaría llegar a trabajar en un sitio en el que de verdad den importancia a la carrera profesional de sus trabajadores: estamos en un ámbito en constante cambio y la única forma de poder mantenerte \"en la ola\" es que alguien te oriente, te acompañe y (quizá la mas importante) te sufrague esa formación para poder aplicarla en tu día a día.\n",
+      "avatar": {
+        "alt": "yo2.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a1c8a3bb-258d-4718-b4a1-7da49e258832_yo2.jpg"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/metatron18es"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/roberto-de-la-casa-ba649b19/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "SyncRTC",
+          "image": {
+            "alt": "mashme.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/512bd4e0-898c-4a0c-8243-741683070a59_mashme.jpeg"
+          },
+          "URL": "https://mashme.io"
+        },
+        "roles": [
+          {
+            "name": " Front End Developer",
+            "startDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Nuestra 'Room of the Future' supone un gran avance en educación, e-Learning y colaboración entre equipos profesionales. Ofrece la experiencia de videoconferencia más envolvente para organizaciones que buscan transformar su entornos de aprendizaje digital. Sin instalación y con un conjunto de 'smart features', la plataforma mashme.io ofrece a los estudiantes una experiencia de aprendizaje virtual que elimina las fronteras de la formación online y reúne todas las ventajas de la enseñanza tradicional en el aula incluso en condiciones de escasa conectividad."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Litelement",
+                "type": "technology"
+              },
+              {
+                "name": "Polymer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Panda Security",
+          "image": {
+            "alt": "1593695684506.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/07127153-0756-4eec-b1b0-248535dec07f_1593695684506.jpeg"
+          },
+          "URL": "https://www.pandasecurity.com"
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2012-02-01",
+            "finishDate": "2017-07-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Garailebit"
+        },
+        "roles": [
+          {
+            "name": "Empleado",
+            "startDate": "2010-12-01",
+            "finishDate": "2012-01-01",
+            "challenges": [
+              {
+                "description": "Desarrolo de Software"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CodeIgniter",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kernet",
+          "image": {
+            "alt": "1630585176733.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/90a18b86-f5f6-4e96-9606-264e9c2af1a2_1630585176733.jpeg"
+          },
+          "URL": "https://kernet.es/"
+        },
+        "roles": [
+          {
+            "name": "Web developer",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-12-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Litelement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Master Frontend",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "Lemoncoders",
+          "URL": "https://lemoncode.net/master-frontend#inicio-banner",
+          "image": {
+            "alt": "1590920522462.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/2bc5c460-1f20-491e-88e2-76617bd63939_1590920522462.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Webpack",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/roberto-de-la-casa-ba649b19/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Litelement",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
