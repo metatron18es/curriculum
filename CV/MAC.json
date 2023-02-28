@@ -1,17 +1,24 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Roberto",
       "surnames": "de la Casa",
+      "title": "",
       "description": "Soy un desarrollador web, con bastantes años de experiencia. He trabajado en consultoras y en empresas con producto propio. He estado en grandes empresas y en Startups. Mi fuerte es la maquetación, aunque también controlo bastante de la parte Front (JS, Frameworks js, etc)\nActualmente trabajo como desarrollador Frontend en un lugar en que estoy a gusto, pero creo que podría crecer algo mas quizá cambiando de sitio, aunque no es nada urgente.\nMe gustaría llegar a trabajar en un sitio en el que de verdad den importancia a la carrera profesional de sus trabajadores: estamos en un ámbito en constante cambio y la única forma de poder mantenerte \"en la ola\" es que alguien te oriente, te acompañe y (quizá la mas importante) te sufrague esa formación para poder aplicarla en tu día a día.\n",
       "avatar": {
         "alt": "yo2.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a1c8a3bb-258d-4718-b4a1-7da49e258832_yo2.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Leioa",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -67,7 +74,7 @@
                 "type": "technology"
               },
               {
-                "name": "Litelement",
+                "name": "LitElement",
                 "type": "technology"
               },
               {
@@ -92,6 +99,11 @@
             "name": "Web Developer",
             "startDate": "2012-02-01",
             "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "CSS",
@@ -166,6 +178,11 @@
             "name": "Web developer",
             "startDate": "2010-01-01",
             "finishDate": "2010-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "CSS",
@@ -192,10 +209,17 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JavaScript",
@@ -204,13 +228,13 @@
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "LitElement",
           "type": "technology"
         }
       },
@@ -222,13 +246,13 @@
       },
       {
         "skill": {
-          "name": "Jest",
+          "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -240,13 +264,7 @@
       },
       {
         "skill": {
-          "name": "Litelement",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
+          "name": "Jest",
           "type": "technology"
         }
       },
@@ -265,6 +283,7 @@
         "startDate": "2021-01-01",
         "institution": {
           "name": "Lemoncoders",
+          "description": "",
           "URL": "https://lemoncode.net/master-frontend#inicio-banner",
           "image": {
             "alt": "1590920522462.jpeg",
@@ -328,10 +347,15 @@
           "type": "technology"
         },
         {
-          "name": "Litelement",
+          "name": "LitElement",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Layout Designer / Maquetación"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
