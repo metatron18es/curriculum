@@ -8,29 +8,19 @@
     "profile": {
       "name": "Roberto",
       "surnames": "de la Casa",
-      "title": "",
-      "description": "",
+      "title": "Title",
+      "description": "Soy un desarrollador web, con bastantes años de experiencia. He trabajado en consultoras y en empresas con producto propio. He estado en grandes empresas y en Startups. Mi fuerte es la maquetación, aunque también controlo bastante de la parte Front (JS, Frameworks js, etc)\nActualmente trabajo como desarrollador Frontend en un lugar en que estoy a gusto, pero creo que podría crecer algo mas quizá cambiando de sitio, aunque no es nada urgente.\nMe gustaría llegar a trabajar en un sitio en el que de verdad den importancia a la carrera profesional de sus trabajadores: estamos en un ámbito en constante cambio y la única forma de poder mantenerte \"en la ola\" es que alguien te oriente, te acompañe y (quizá la mas importante) te sufrague esa formación para poder aplicarla en tu día a día.\n",
       "avatar": {
-        "alt": "yo2.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a1c8a3bb-258d-4718-b4a1-7da49e258832_yo2.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a1c8a3bb-258d-4718-b4a1-7da49e258832_yo2.jpg",
+        "alt": "yo2.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJSYZaUFBaTg0R9ZgvUby2WyM)",
         "country": "España",
         "region": "País Vasco",
-        "municipality": "Leioa",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Leioa"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/metatron18es"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/roberto-de-la-casa-ba649b19/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -38,8 +28,8 @@
         "organization": {
           "name": "SyncRTC",
           "image": {
-            "alt": "mashme.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/512bd4e0-898c-4a0c-8243-741683070a59_mashme.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/512bd4e0-898c-4a0c-8243-741683070a59_mashme.jpeg",
+            "alt": "mashme.jpeg"
           },
           "URL": "https://mashme.io"
         },
@@ -89,8 +79,8 @@
         "organization": {
           "name": "Panda Security",
           "image": {
-            "alt": "1593695684506.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/07127153-0756-4eec-b1b0-248535dec07f_1593695684506.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/07127153-0756-4eec-b1b0-248535dec07f_1593695684506.jpeg",
+            "alt": "1593695684506.jpeg"
           },
           "URL": "https://www.pandasecurity.com"
         },
@@ -99,11 +89,6 @@
             "name": "Web Developer",
             "startDate": "2012-02-01",
             "finishDate": "2017-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "CSS",
@@ -168,8 +153,8 @@
         "organization": {
           "name": "Kernet",
           "image": {
-            "alt": "1630585176733.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/90a18b86-f5f6-4e96-9606-264e9c2af1a2_1630585176733.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/90a18b86-f5f6-4e96-9606-264e9c2af1a2_1630585176733.jpeg",
+            "alt": "1630585176733.jpeg"
           },
           "URL": "https://kernet.es/"
         },
@@ -178,11 +163,6 @@
             "name": "Web developer",
             "startDate": "2010-01-01",
             "finishDate": "2010-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "CSS",
@@ -209,7 +189,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
@@ -222,19 +202,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "LitElement",
+          "name": "Cypress",
           "type": "technology"
         }
       },
@@ -258,7 +226,7 @@
       },
       {
         "skill": {
-          "name": "Cypress",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -270,7 +238,25 @@
       },
       {
         "skill": {
-          "name": "Sinon",
+          "name": "LitElement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SinonJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -283,11 +269,10 @@
         "startDate": "2021-01-01",
         "institution": {
           "name": "Lemoncoders",
-          "description": "",
           "URL": "https://lemoncode.net/master-frontend#inicio-banner",
           "image": {
-            "alt": "1590920522462.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/2bc5c460-1f20-491e-88e2-76617bd63939_1590920522462.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/2bc5c460-1f20-491e-88e2-76617bd63939_1590920522462.jpeg",
+            "alt": "1590920522462.jpeg"
           }
         },
         "linkedCompetences": [
@@ -321,14 +306,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/roberto-de-la-casa-ba649b19/"
+          "URL": "https://www.linkedin.com/in/roberto-de-la-casa-ba649b19/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/metatron18es",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "rober.delacasa@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "629577857",
+          "countryCode": "+34"
         }
       ]
     },
@@ -357,5 +375,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaria un trabajo de Front, en remoto, que me forme en las nuevas tecnologias. Por mi parte estoy cursando un Master de desarrollo frontend (en Lemoncode) y hago cursillos que encuentro. Pero me gustaría poder llegar a un sitio en que esa formación, la pueda aplicar en un entorno de trabajo real.\nMe gusta la maquetación y se me da bastante bien, pero me gustaría también poder hacer un poco de fullstack: poder recorrer todo el camino de un producto, pasando por el front, el back, el despliegue, etc.\nMi puesto de trabajo ideal es un sitio en el que sienta que mi trabajo se valora, se me apoya para seguir creciendo, se me forma para seguir mejorando y tengo tiempo para poder vivir y disfrutar.\nNo me importaría dar un giro a mi carrera y pasar a estar como manager y gestionar mi propio equipo o en selección de personal. Soy bastante polivalente y si se me enseña, creo que puedo aportar mucho valor y experiencia en muchos ámbitos"
   }
 }
