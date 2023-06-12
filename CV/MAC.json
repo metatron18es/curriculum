@@ -371,6 +371,10 @@
         {
           "name": "LitElement",
           "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
