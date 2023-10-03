@@ -26,6 +26,41 @@
     "jobs": [
       {
         "organization": {
+          "name": "Centro Txurdinaga FP"
+        },
+        "roles": [
+          {
+            "name": "Profesor Centro Txurdinaga de FP",
+            "startDate": "2018-10-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Profesor del certificado de profesionalidad: DESARROLLO DE  APLICACIONES CON TECNOLOGÍAS WEB"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "SyncRTC",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/512bd4e0-898c-4a0c-8243-741683070a59_mashme.jpeg",
