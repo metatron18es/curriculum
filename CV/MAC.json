@@ -344,6 +344,22 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Principios de la programación  orientada a objetos:  Programación Java (90 h.) ",
+        "startDate": "2020-04-01",
+        "institution": {
+          "name": "Zilargi academia"
+        },
+        "finishDate": "2020-06-01",
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
