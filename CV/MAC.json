@@ -388,6 +388,42 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Programación web y desarrollo de  Bases de  Datos. (400 h.) ",
+        "startDate": "2008-01-01",
+        "institution": {
+          "name": "Inutec"
+        },
+        "finishDate": "2008-06-01",
+        "linkedCompetences": [
+          {
+            "name": "ASP",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
