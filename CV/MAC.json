@@ -509,7 +509,12 @@
         "Layout Designer / Maquetación"
       ]
     },
-    "status": "openToOffers"
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
